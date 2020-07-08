@@ -14,7 +14,7 @@ public class 測式 {
 			System.out.println("hello git .......");
 			System.out.println("hello git .......");
 			System.out.println("hello git .......");
-			System.out.println("hello git .......");
+			System.out.println("hello git ......."); //edit 17
 			System.out.println("hello git .......");
 			System.out.println("hello git .......");
 			System.out.println("hello git .......");
